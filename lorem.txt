@@ -19,6 +19,5 @@ There are many variations of passages of Lorem Ipsum available, but the majority
 	words
 	bytes
 	lists
-		Start with 'Lorem
-ipsum dolor sit amet...'
+		Start with 'Lorem ipsum dolor sit amet...'
 	
